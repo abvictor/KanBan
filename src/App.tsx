@@ -11,7 +11,7 @@ function App() {
         bgClip="text"
         mt="4"
       >
-        Simple Kanban
+        Simple Kanban - Developer
       </Heading>
       <Container maxWidth="container.lg" px={10}></Container>
     </>
